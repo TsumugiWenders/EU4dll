@@ -1,3 +1,5 @@
+仅翻译，原项目地址：https://github.com/matanki-saito/SimpleInstaller
+
 # EU4DLL
 这个 dll 使得在欧陆风云4中显示双字节字符成为可能.
 
